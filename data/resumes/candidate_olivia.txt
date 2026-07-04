@@ -1,0 +1,16 @@
+Name: Olivia Wilde
+Contact: olivia.wilde@example.com
+Experience:
+- 6 years of experience in cybersecurity and application security.
+- Performed penetration testing and vulnerability assessments on web apps.
+- Solid understanding of OWASP Top 10 vulnerabilities.
+- Set up firewall configurations and secure network architectures.
+- Assisted developers in fixing security bugs in code.
+
+Skills:
+- Cybersecurity
+- Penetration Testing
+- OWASP Top 10
+- Networking
+- Linux
+- Cryptography

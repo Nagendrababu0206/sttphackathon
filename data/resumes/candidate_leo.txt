@@ -1,0 +1,17 @@
+Name: Leo Messi
+Contact: leo.messi@example.com
+Experience:
+- 5 years of experience as a Full Stack Developer.
+- Developed backend APIs using Node.js, Express, and NestJS.
+- Created interactive interfaces using React and Tailwind CSS.
+- Designed database schemas in MongoDB and PostgreSQL.
+- Implemented real-time features using WebSockets.
+
+Skills:
+- Node.js
+- React
+- Express
+- MongoDB
+- PostgreSQL
+- Tailwind CSS
+- WebSockets

@@ -1,0 +1,19 @@
+Name: Quinn Fabray
+Contact: quinn.fabray@example.com
+
+Experience:
+- 5 years of application security and infrastructure security experience.
+- Conducted penetration testing, threat modeling, and code audits.
+- Implemented static and dynamic analysis tools (SAST/DAST) in CI/CD pipelines.
+- Implemented security policies in Kubernetes and AWS IAM.
+- Expert in cryptography and PKI systems.
+
+Skills:
+- Cybersecurity
+- Pentesting
+- SAST/DAST
+- Kubernetes Security
+- AWS Security
+- Cryptography
+- Python
+- DevSecOps

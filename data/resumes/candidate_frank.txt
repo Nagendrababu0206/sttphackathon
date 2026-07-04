@@ -1,0 +1,17 @@
+Name: Frank Wilson
+Contact: frank.wilson@example.com
+Experience:
+- 6 years of experience in systems programming.
+- Deep knowledge of C++, memory management, and multithreading.
+- Built performance-critical desktop applications and low-level libraries.
+- Strong command of Linux environment, shell scripting, and Makefile.
+- Experience with embedded systems and hardware integration.
+
+Skills:
+- C++
+- C
+- Linux
+- Multithreading
+- Shell Scripting
+- Git
+- CMake

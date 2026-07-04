@@ -1,0 +1,6 @@
+Name: Alex Kumar
+Skills: Python, LangChain, Prompt Engineering, Data Science, Cloud Computing
+Gap: 2018-2019 (unemployed)
+Experience: 5 years as Senior Data Engineer at InnovateTech
+Project: Built an end‑to‑end AI recruiting assistant using LangChain, Gemini and Chroma, cutting screening time by 40%
+Education: M.Tech. Computer Science, IIT Delhi

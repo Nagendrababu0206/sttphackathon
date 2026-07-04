@@ -1,0 +1,19 @@
+Name: Sam Winchester
+Contact: sam.winchester@example.com
+
+Experience:
+- 5 years of mobile app development experience.
+- Deep expertise in Kotlin and Android SDK.
+- Built performance-critical, highly interactive Android apps with Jetpack Compose.
+- Integrated RESTful APIs and offline synchronization databases like Room.
+- Published and maintained 6+ apps in the Google Play Store.
+
+Skills:
+- Android Development
+- Kotlin
+- Jetpack Compose
+- Java
+- Room DB
+- REST APIs
+- Git
+- Play Store Console

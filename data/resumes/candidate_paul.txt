@@ -1,0 +1,19 @@
+Name: Paul Allen
+Contact: paul.allen@example.com
+
+Experience:
+- 7 years of data engineering experience.
+- Built robust ETL/ELT pipelines using Apache Airflow and Spark.
+- Designed schema architectures for large databases in Snowflake and PostgreSQL.
+- Experienced in stream processing with Apache Kafka.
+- Optimized performance of big data warehouse clusters.
+
+Skills:
+- Python
+- Apache Airflow
+- Apache Spark
+- Snowflake
+- PostgreSQL
+- Apache Kafka
+- ETL/ELT
+- AWS

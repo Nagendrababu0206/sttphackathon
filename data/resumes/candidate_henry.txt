@@ -1,0 +1,17 @@
+Name: Henry Ford
+Contact: henry.ford@example.com
+Experience:
+- 4 years of QA automation experience.
+- Developed test automation frameworks using Python and Selenium.
+- Automated API testing with Postman and requests library.
+- Managed test suites and integrated them with Jenkins CI/CD pipelines.
+- Experienced in writing bug reports and doing manual exploratory testing.
+
+Skills:
+- Python
+- Selenium
+- QA Automation
+- API Testing
+- Jenkins
+- Git
+- Postman

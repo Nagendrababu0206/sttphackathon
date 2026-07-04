@@ -1,0 +1,16 @@
+Name: Bob Jones
+Contact: bob.jones@example.com
+
+Experience:
+- 3 years of experience as a software engineer.
+- Mostly worked with JavaScript, Node.js, and Express.
+- Recently started learning Python for simple scripts.
+- Familiar with MongoDB and NoSQL databases.
+- Has deployed simple apps on Heroku.
+
+Skills:
+- JavaScript
+- Node.js
+- Python (Basic)
+- MongoDB
+- HTML/CSS

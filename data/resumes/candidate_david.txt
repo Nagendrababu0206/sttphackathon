@@ -1,0 +1,17 @@
+Name: David Lee
+Contact: david.lee@example.com
+Experience:
+- 8 years of software development experience.
+- Deep expertise in Java, Spring Boot, and microservices architecture.
+- Designed and built scalable transaction systems.
+- Strong knowledge of SQL databases (PostgreSQL, Oracle).
+- Deployed applications on AWS using ECS.
+
+Skills:
+- Java
+- Spring Boot
+- Microservices
+- PostgreSQL
+- AWS
+- JUnit
+- Git

@@ -1,0 +1,18 @@
+Job Title: Senior Python Developer
+Role: Backend Software Engineer
+Experience Required: 5+ years
+
+Required Skills:
+- Python
+- LangChain
+- LangGraph
+- FastAPI
+- PostgreSQL
+- Docker
+
+Responsibilities:
+- Build scalable backend services using Python and FastAPI.
+- Integrate LLMs using LangChain and LangGraph to build AI agents.
+- Design database schemas and write optimized queries in PostgreSQL.
+- Containerize applications using Docker and deploy to AWS.
+- Mentor junior developers and participate in code reviews.

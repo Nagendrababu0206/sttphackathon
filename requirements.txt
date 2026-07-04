@@ -1,0 +1,11 @@
+google-genai
+python-dotenv
+langgraph
+langchain
+langchain-google-genai
+tavily-python
+pydantic
+chromadb
+langchain-chroma
+sentence-transformers
+langchain-huggingface

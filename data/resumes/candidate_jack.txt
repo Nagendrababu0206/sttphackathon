@@ -1,0 +1,17 @@
+Name: Jack Ma
+Contact: jack.ma@example.com
+Experience:
+- 5 years of DevOps engineering experience.
+- Strong skills in infrastructure as code using Terraform.
+- Built and managed Kubernetes clusters on AWS (EKS) and GCP.
+- Implemented robust CI/CD pipelines with GitHub Actions.
+- Set up monitoring and logging with Prometheus, Grafana, and ELK stack.
+
+Skills:
+- AWS
+- Kubernetes
+- Docker
+- Terraform
+- CI/CD (GitHub Actions)
+- Prometheus
+- Grafana

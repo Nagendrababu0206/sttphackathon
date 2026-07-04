@@ -1,0 +1,19 @@
+Name: Grace Hopper
+Contact: grace.hopper@example.com
+Experience:
+- 10 years of software engineering experience.
+- Expert Python programmer with focus on AI/ML.
+- Built and trained deep learning models using PyTorch.
+- Developed backend AI services using FastAPI and PostgreSQL.
+- Experienced in Docker containerization and Kubernetes orchestration.
+- Mentored engineering teams and established coding standards.
+
+Skills:
+- Python
+- PyTorch
+- FastAPI
+- PostgreSQL
+- Docker
+- Kubernetes
+- AWS
+- AI/ML

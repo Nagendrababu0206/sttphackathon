@@ -1,0 +1,17 @@
+Name: Charlie Brown
+Contact: charlie.brown@example.com
+
+Experience:
+- 4 years of software development experience.
+- Strong background in Python, Django, and PostgreSQL.
+- Has built basic RAG applications using LangChain and OpenAI.
+- Limited experience with FastAPI, but quick learner.
+- Comfortable with Docker and basic cloud deployments on AWS.
+
+Skills:
+- Python
+- Django
+- LangChain
+- PostgreSQL
+- Docker
+- AWS

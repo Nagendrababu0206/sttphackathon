@@ -1,0 +1,16 @@
+Name: Ivy Chen
+Contact: ivy.chen@example.com
+Experience:
+- 7 years of product management experience in tech.
+- Led cross-functional teams using Agile and Scrum methodologies.
+- Defined product vision, roadmap, and requirements for web apps.
+- Proficient in JIRA, Confluence, and analytics tools like Mixpanel.
+- Collaborated with engineering, design, and marketing to launch products.
+
+Skills:
+- Product Management
+- Agile & Scrum
+- JIRA
+- Product Roadmap
+- User Research
+- Market Analysis

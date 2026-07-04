@@ -1,0 +1,20 @@
+Name: Ruby Martinez
+Contact: ruby.martinez@example.com
+
+Experience:
+- 4 years of MLOps experience deploying machine learning models at scale.
+- Designed automated training and deployment pipelines using Kubeflow and MLflow.
+- Developed real-time inference services using FastAPI and Triton Inference Server.
+- Configured model monitoring, drift detection, and logging dashboards.
+- Containerized models with Docker and deployed on AWS EKS clusters.
+
+Skills:
+- MLOps
+- Python
+- FastAPI
+- MLflow
+- Kubeflow
+- Docker
+- Kubernetes
+- AWS
+- Prometheus/Grafana

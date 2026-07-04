@@ -1,0 +1,17 @@
+Name: Eva Miller
+Contact: eva.miller@example.com
+Experience:
+- 3 years of frontend development experience.
+- Built responsive UI components using React and Next.js.
+- Strong understanding of HTML5, CSS3, JavaScript, and Tailwind CSS.
+- Experienced with state management libraries like Redux.
+- Worked closely with designers to implement pixel-perfect layouts.
+
+Skills:
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+- CSS3/HTML5
+- Git
+- Figma

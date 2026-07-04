@@ -1,0 +1,19 @@
+Name: Alice Smith
+Contact: alice.smith@example.com
+
+Experience:
+- 6 years of experience in backend development.
+- Built multiple AI agents using Python, LangChain, and LangGraph.
+- Developed scalable APIs with FastAPI.
+- Deep expertise in PostgreSQL and vector databases (ChromaDB, FAISS).
+- Experienced in Docker and Kubernetes deployments.
+
+Skills:
+- Python
+- LangChain
+- LangGraph
+- FastAPI
+- PostgreSQL
+- Docker
+- Kubernetes
+- AWS

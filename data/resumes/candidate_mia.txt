@@ -1,0 +1,16 @@
+Name: Mia Hamm
+Contact: mia.hamm@example.com
+Experience:
+- 3 years of experience as a Data Scientist.
+- Cleaned and analyzed large datasets using Python, Pandas, and NumPy.
+- Wrote complex SQL queries to extract data from warehouse.
+- Built predictive models using scikit-learn.
+- Designed data visualizations using Tableau and Seaborn.
+
+Skills:
+- Python
+- Pandas/NumPy
+- scikit-learn
+- SQL
+- Tableau
+- Data Visualization

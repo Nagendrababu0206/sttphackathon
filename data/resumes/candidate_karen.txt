@@ -1,0 +1,17 @@
+Name: Karen Page
+Contact: karen.page@example.com
+Experience:
+- 4 years of frontend engineering experience.
+- Specialized in React, Next.js, and TypeScript.
+- Strong styled-components, CSS, and UI framework experience (Material UI).
+- Optimized web applications for maximum speed and SEO.
+- Implemented authorization protocols (OAuth, JWT) on frontend.
+
+Skills:
+- React
+- Next.js
+- TypeScript
+- Redux
+- CSS/Sass
+- Git
+- OAuth/JWT
